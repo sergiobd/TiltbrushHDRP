@@ -1,6 +1,6 @@
 # TiltbrushHDRP
 
-These shader graphs allow you to import Tiltbrush sketches in Unity HDRP. Shaders that are implemented as surface shaders don’t work out of the box with the Tiltbrush Unity SDK (e.g. TaperedFlat). Shaders that are implemented as fragment shaders _do work_. 
+These shader graphs allow you to import Tiltbrush sketches in Unity HDRP. Brushes that are implemented as surface shaders don’t work out of the box in HDRP with the Tiltbrush Unity SDK (e.g. TaperedFlat). Shaders that are implemented as fragment shaders _do work_. 
 
 1. Download and import the Tiltbrush Unity SDK from their [release page](https://github.com/googlevr/tilt-brush-toolkit/releases).
 
